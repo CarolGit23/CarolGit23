@@ -3,7 +3,7 @@
 :computer: **Ingeniera en sistemas**   
 :pencil: **Analista de sistemas**   
 :eyeglasses: **Fan del Kdrama y del Ramen**  
-:Family: **Formo parte del club de las mamitas mas felices del mundo mundial universal**  
+:family: **Formo parte del club de las mamitas mas felices del mundo mundial universal**  
 
 ###Contact me
 
