@@ -9,13 +9,13 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [CarolGit23/miCuartoRepo](https://github.com/CarolGit23/miCuartoRepo)<br>
-2. ⬆️ Pushed undefined commit(s) to [CarolGit23/miCuartoRepo](https://github.com/CarolGit23/miCuartoRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [CarolGit23/miCuartoRepo](https://github.com/CarolGit23/miCuartoRepo)<br>
-4. 💪 Opened PR [#2](undefined) in [CarolGit23/miCuartoRepo](https://github.com/CarolGit23/miCuartoRepo)<br>
+2. ✌️ Released [v0.1.0](https://github.com/CarolGit23/tercerRepo/releases/tag/v0.1.0) in [CarolGit23/tercerRepo](https://github.com/CarolGit23/tercerRepo)<br>
+3. ⬆️ Pushed undefined commit(s) to [CarolGit23/tercerRepo](https://github.com/CarolGit23/tercerRepo)<br>
+4. ⬆️ Pushed undefined commit(s) to [CarolGit23/miCuartoRepo](https://github.com/CarolGit23/miCuartoRepo)<br>
 5. ⬆️ Pushed undefined commit(s) to [CarolGit23/miCuartoRepo](https://github.com/CarolGit23/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 12th, 2025, 2:04:21 AM
+Last Updated: Friday, December 12th, 2025, 12:55:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact me
